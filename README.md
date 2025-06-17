@@ -1,4 +1,5 @@
-# Openstate - Ninja Stealth Game
+
+# 🥷 Openstate - Ninja Stealth Game
 
 A 2D stealth platformer game built with Python and Pygame where you play as a ninja navigating maze-like levels filled with patrolling guards.
 
