@@ -1,0 +1,6 @@
+Place image files here:
+- player.png: Player character sprite sheet
+- guard.png: Guard character sprite sheet
+- tiles.png: Tileset for walls, floors, hiding spots, etc.
+- scroll.png: Collectible scroll sprite
+- ui.png: UI elements

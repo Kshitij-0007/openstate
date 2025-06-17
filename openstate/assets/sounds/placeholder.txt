@@ -1,0 +1,5 @@
+Place sound files here:
+- pickup.wav: Sound for collecting scrolls
+- alert.wav: Sound for when a guard detects the player
+- level_complete.wav: Sound for completing a level
+- footstep.wav: Sound for player movement
